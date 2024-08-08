@@ -16,6 +16,7 @@
 		Language 	: 	<select 				name="language">
 									<option>English</option>
 									<option>Tamil</option>
+									<option>Spanish</option>
 		</select>
 		<br><br>
 		<input type="submit" value = "Register"/>
