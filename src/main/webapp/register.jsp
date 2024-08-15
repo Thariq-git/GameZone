@@ -17,6 +17,7 @@
 									<option>English</option>
 									<option>Tamil</option>
 									<option>Spanish</option>
+									<option>French</option>
 		</select>
 		<br><br>
 		<input type="submit" value = "Register"/>
