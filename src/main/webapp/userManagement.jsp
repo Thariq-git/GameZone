@@ -40,7 +40,6 @@ crossorigin="anonymous">
 <c:forEach var="user" items="${listUsers}">
 <!-- For each user in the database, display their
 information accordingly -->
-
 <tr>
 <td>
 <c:out value="${user.name}" />
